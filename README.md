@@ -1,7 +1,3 @@
-Voici une description détaillée en français, prête à être utilisée sur GitHub :
-
----
-
 # Simulation de la Trajectoire d'un Projectile avec Résistance de l'Air
 
 Ce projet consiste en une simulation numérique de la trajectoire d'un projectile, tenant compte à la fois de la gravité et de la résistance de l'air. Le code est organisé de manière modulaire et se divise en plusieurs parties, permettant de comprendre, modifier et étendre facilement la simulation.
